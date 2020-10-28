@@ -5,7 +5,6 @@ class PostsController < ApplicationController
   end
 
   def edit
-    @post
   end
 
   def update
